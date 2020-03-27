@@ -11,6 +11,6 @@ Code repository (version control) for a Social Humanoid Robotics university proj
   
   Samuel Jack – ST20074272    - Programmer / Report Writer
 
-# Social Humanoid Robotics Assignment
+# WRIT 1 - Social Humanoid Robotics - CIS6029
 # Cardiff School of Technologies
 # Cardiff Metropolitan University
